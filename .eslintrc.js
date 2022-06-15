@@ -32,7 +32,6 @@ module.exports = {
 				useTabs: true,
 				endOfLine: 'auto',
 				singleQuote: true,
-				parser: 'flow',
 			},
 		],
 		'jsx-a11y/anchor-is-valid': [

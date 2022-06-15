@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+## Technologies used
+
+1. ReactJS
+2. TypeScript
+3. TailWindCSS
+4. ESLint
+5. Prettier
+6. Husky
+7. Link Staged
+8. Docker Compose
+9. GitLab CI
+10. NGINX
+
+## Run on development
+
+1. Install Docker -> https://www.docker.com/
+2. docker-compose -f docker-compose.dev.yml up -d --build
+
+## Run on production
+
+1. You need to setup a VPS/Ubuntu host.
+2. You need to setup a Gitlab Repository.
+3. You need to setup a Gitlab Runner.
+4. You need to push to the Gitlab Repository.
+5. Open the VPS IP.
+
+## ReactJS Default README
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
